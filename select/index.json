@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "-WA⭐︎show 桜party-",
+  "base_artist": "尾丸ポルカ",
+  "createdAt": "2025-12-26T14:27:01.076213Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "-WA⭐︎show 桜party-",
+      "artist": "尾丸ポルカ",
+      "has_synced": false,
+      "path": "select/01_-WA⭐︎show_桜party-_尾丸ポルカ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "-WA⭐︎show 桜party-",
+      "artist": "尾丸ポルカ",
+      "has_synced": false,
+      "path": "select/pl_01_-WA⭐︎show_桜party-_尾丸ポルカ.txt"
+    }
+  ]
+}
